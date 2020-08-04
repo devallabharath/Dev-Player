@@ -19,7 +19,9 @@ A customized coolplayer music player application for windows.
 Ex..
 If u have downloaded the repo to ur downloads folder then, u need to change as follows
 <br>
+```sh
 "C:\Users\username\Downloads\Dev-Player\Skin\pl\playlist.ini"
+```
 
 #### Caution
 Do not run the player before editing the 'coolplayer.ini' file.
