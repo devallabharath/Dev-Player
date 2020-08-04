@@ -12,5 +12,5 @@ A customized coolplayer music player application for windows.
 
 
 #### Usage/installation
-+ Download the Repo into your system
-+ 
++ Download the Repo into your system.
++ Replace the "********" in the file 'coolplayer.ini' with actual directory location.
