@@ -1,14 +1,15 @@
-<h1 align="center" color="blue"> Dev-Player </h1>
+<h1 align="center"> Dev-Player </h1>
 A customized coolplayer music player application for windows.
-<br>
+
+
 #### Features
-+ Light-weight
-+ Stand alone-portable application
-+ Themed
-+ Fully-functional
-+ Playlists support
-+ Wide formats (mp3, flac, mp4, wav)
-+ Online links play support
+* Light-weight
+* Stand alone-portable application
+* Themed
+* Fully-functional
+* Playlists support
+* Wide formats (mp3, flac, mp4, wav)
+* Online links play support
 
 
 #### Usage/installation
