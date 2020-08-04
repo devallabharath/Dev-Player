@@ -1,4 +1,5 @@
 <h1 align="center"> Dev-Player </h1>
+https://img.shields.io/badge/<OpenSource>-<yes>-<blue>
 A customized coolplayer music player application for windows.
 
 
@@ -20,7 +21,7 @@ Ex.. <br>
 If u have downloaded the repo to ur downloads folder then, u need to change as follows
 <br>
 ```sh
-C:\Users\'username'\Downloads\Dev-Player\Skin\pl\playlist.ini
+C:\Users\username\Downloads\Dev-Player\Skin\pl\playlist.ini
 ```
 change the "username" with your username <br><br>
 You need to edit "2" line's in the "coolplayer.ini" file
