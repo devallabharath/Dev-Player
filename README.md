@@ -1,7 +1,5 @@
 <h1 align="center"> Dev-Player </h1>
-<img src="https://img.shields.io/badge/OpenSource-Yes-green"/><img src="https://img.shields.io/badge/License-Apache-blue"/>
-<img src="https://img.shields.io/github/issues/devallabharath/Dev-Player?style=plastic"/>
-
+<img src="https://img.shields.io/badge/OpenSource-Yes-green" style="float:left; margin-right:10px;"/> <img src="https://img.shields.io/badge/License-Apache-blue" style="float:left; margin-right:10px;"/> <img src="https://img.shields.io/github/issues/devallabharath/Dev-Player?style=plastic" style="float:left; margin-right:10px;"/>
 A customized coolplayer music player application for windows.
 
 
