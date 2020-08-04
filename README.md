@@ -1,4 +1,4 @@
-<h1 align="center"> Dev-Player </h1>
+<h1 align="center" color="blue"> Dev-Player </h1>
 A customized coolplayer music player application for windows.
 <br>
 #### Features
