@@ -16,12 +16,13 @@ A customized coolplayer music player application for windows.
 + Download the Repo into your system.
 + Replace the "********" in the file 'coolplayer.ini' with actual directory location.
 
-Ex..
+Ex.. <br>
 If u have downloaded the repo to ur downloads folder then, u need to change as follows
 <br>
 ```sh
-"C:\Users\username\Downloads\Dev-Player\Skin\pl\playlist.ini"
+C:\Users\username\Downloads\Dev-Player\Skin\pl\playlist.ini
 ```
+You need to edit "2" line's in the "coolplayer.ini" file
 
 #### Caution
-Do not run the player before editing the 'coolplayer.ini' file.
+Do not run the player before editing the "coolplayer.ini" file.
