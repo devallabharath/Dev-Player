@@ -20,9 +20,9 @@ Ex.. <br>
 If u have downloaded the repo to ur downloads folder then, u need to change as follows
 <br>
 ```sh
-C:\Users\"username"\Downloads\Dev-Player\Skin\pl\playlist.ini
+C:\Users\'username'\Downloads\Dev-Player\Skin\pl\playlist.ini
 ```
-change the "username" with your username <br>
+change the "username" with your username <br><br>
 You need to edit "2" line's in the "coolplayer.ini" file
 
 #### Caution
