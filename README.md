@@ -1,5 +1,4 @@
-<p align="center">
-<h1> Dev-Player </h1>
+<h1 align="center"> Dev-Player </h1>
 A customized coolplayer music player application for windows.
 <br>
 #### Features
@@ -23,4 +22,3 @@ If u have downloaded the repo to ur downloads folder then, u need to change as f
 
 #### Caution
 Do not run the player before editing the 'coolplayer.ini' file.
-</p>
