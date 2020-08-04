@@ -1,5 +1,4 @@
 # Dev-Player
----
 A customized coolplayer music player application for windows.
 <br>
 #### Features
@@ -13,6 +12,5 @@ A customized coolplayer music player application for windows.
 
 
 #### Usage/installation
--
 + Download the Repo into your system
 + 
