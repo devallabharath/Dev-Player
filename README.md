@@ -1,5 +1,5 @@
 <h1 align="center"> Dev-Player </h1>
-https://img.shields.io/badge/OpenSource-Yes-blue
+<img src="https://img.shields.io/badge/OpenSource-Yes-blue" />
 
 A customized coolplayer music player application for windows.
 
