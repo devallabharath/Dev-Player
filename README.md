@@ -14,8 +14,8 @@ Original source available at [sourceforge](http://coolplayer.sourceforge.net/)
 * Themed
 * Fully-functional
 * Playlists support
-* Wide formats (mp3, flac, mp4, wav)
-* Online links play support
+* Wide formats (mp3, flac, mp4, wav, lossless)
+* Online streaming
 
 
 #### Usage/installation
