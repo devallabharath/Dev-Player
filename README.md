@@ -6,6 +6,7 @@
 
 A customized coolplayer music player application for windows.
 
+Original source available at [sourceforge](http://coolplayer.sourceforge.net/)
 
 #### Features
 * Light-weight
