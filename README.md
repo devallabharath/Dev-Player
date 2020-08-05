@@ -26,7 +26,7 @@ If u have downloaded the repo to ur downloads folder then, u need to change as f
 
 
 ```sh
-C:\Users\_username_\Downloads\Dev-Player\Skin\pl\playlist.ini
+C:\Users\username\Downloads\Dev-Player\Skin\pl\playlist.ini
 ```
 
 change the "username" with your username <br><br>
