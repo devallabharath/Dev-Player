@@ -34,7 +34,7 @@ You need to edit "2" line's in the "coolplayer.ini" file
 <h2 align="center"> Caution </h2>
 <p align="center"><b>Do not run the player before editing the "coolplayer.ini" file.</b></p>
 
-### License
+<h2 align="center"> License </h2>
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
