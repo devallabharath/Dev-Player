@@ -1,7 +1,7 @@
 <h1 align="center"> Dev-Player </h1>
 
 ![OpenSource](https://img.shields.io/badge/OpenSource-Yes-green)
-![License](https://img.shields.io/badge/License-Apache-blue)
+![License](https://img.shields.io/badge/License-GPL2-blue)
 ![Issues](https://img.shields.io/github/issues/devallabharath/Dev-Player?style=flat)
 
 A customized coolplayer music player application for windows.
@@ -33,6 +33,7 @@ change the "username" with your username <br><br>
 You need to edit "2" line's in the "coolplayer.ini" file
 
 ## Caution
+
 <p align="center"><b>Do not run the player before editing the "coolplayer.ini" file.</b></p>
 
 
