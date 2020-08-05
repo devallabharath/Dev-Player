@@ -32,8 +32,7 @@ If u have downloaded the repo to ur downloads folder then, u need to change as f
 change the "username" with your username <br><br>
 You need to edit "2" line's in the "coolplayer.ini" file
 
-**Caution**
-
+<h2 align="center"> Caution </h2>
 Do not run the player before editing the "coolplayer.ini" file.
 
 ### License
