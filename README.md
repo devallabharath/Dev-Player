@@ -8,6 +8,12 @@ A customized coolplayer music player application for windows.
 
 Original source available at [sourceforge](http://coolplayer.sourceforge.net/)
 
+#### Screenshots
+![Player](https://github.com/devallabharath/Dev-Player/blob/master/Screenshots/screen1.PNG)
+![Equilizer](https://github.com/devallabharath/Dev-Player/blob/master/Screenshots/screen2.PNG)
+![Playlist](https://github.com/devallabharath/Dev-Player/blob/master/Screenshots/screen3.PNG)
+
+
 #### Features
 * Light-weight
 * Stand alone-portable application
