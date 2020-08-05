@@ -2,7 +2,7 @@
 
 ![OpenSource](https://img.shields.io/badge/OpenSource-Yes-green)
 ![License](https://img.shields.io/badge/License-Apache-blue)
-![Issues](https://img.shields.io/github/issues/devallabharath/Dev-Player?style=plastic)
+![Issues](https://img.shields.io/github/issues/devallabharath/Dev-Player?style=flat)
 
 A customized coolplayer music player application for windows.
 
