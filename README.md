@@ -26,7 +26,7 @@ Original source available at [sourceforge](http://coolplayer.sourceforge.net/)
 
 #### Usage/installation
 * Download the Repo into your system.
-* Replace the <code> ******** </code> in the file 'coolplayer.ini' with actual directory location.
+* Replace the <code>********</code> in the file 'coolplayer.ini' with actual directory location.
 
 If u have downloaded the repo to ur downloads folder then, u need to change as follows
 
