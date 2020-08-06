@@ -10,6 +10,7 @@ Original source available at [sourceforge](http://coolplayer.sourceforge.net/)
 
 #### Screenshots
 ![Player](https://github.com/devallabharath/Dev-Player/blob/master/Screenshots/screen1.PNG "Player")
+<img src="https://github.com/devallabharath/Dev-Player/blob/master/Screenshots/screen1.PNG" align="center">
 ![Equilizer](https://github.com/devallabharath/Dev-Player/blob/master/Screenshots/screen2.PNG "Equilizer")
 ![Playlist](https://github.com/devallabharath/Dev-Player/blob/master/Screenshots/screen3.PNG "Playlist")
 
