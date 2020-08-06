@@ -26,7 +26,7 @@ Original source available at [sourceforge](http://coolplayer.sourceforge.net/)
 
 #### Usage/installation
 * Download the Repo into your system.
-* Replace the "********" in the file 'coolplayer.ini' with actual directory location.
+* Replace the <code> ******** </code> in the file 'coolplayer.ini' with actual directory location.
 
 If u have downloaded the repo to ur downloads folder then, u need to change as follows
 
@@ -47,4 +47,4 @@ You need to edit "2" line's in the "coolplayer.ini" file
 <p align="center"> Version 2, June 1991 </p>
  Everyone is permitted to copy and distribute verbatim copies
  of this software; you may not use this file except in compliance with the License. You may obtain a copy of the License at
- https://www.gnu.org/licenses/old-licenses/lgpl-2.0.html
+ <p align="center"> https://www.gnu.org/licenses/old-licenses/lgpl-2.0.html </p>
