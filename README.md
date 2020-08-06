@@ -9,8 +9,7 @@ A customized coolplayer music player application for windows.
 Original source available at [sourceforge](http://coolplayer.sourceforge.net/)
 
 #### Screenshots
-<img src="https://github.com/devallabharath/Dev-Player/blob/master/Screenshots/screen1.PNG" align="center">
-
+![Player](https://github.com/devallabharath/Dev-Player/blob/master/Screenshots/screen1.PNG "Player")
 ![Equilizer](https://github.com/devallabharath/Dev-Player/blob/master/Screenshots/screen2.PNG "Equilizer")
 ![Playlist](https://github.com/devallabharath/Dev-Player/blob/master/Screenshots/screen3.PNG "Playlist")
 
