@@ -38,8 +38,8 @@ C:\Users\username\Downloads\Dev-Player\Skin\pl\playlist.ini
 change the "username" with your username <br><br>
 You need to edit "2" line's in the "coolplayer.ini" file
 
-<h3 align="center"> Caution </h3>
-<p align="center"><b>Do not run the player before editing the "coolplayer.ini" file.</b></p>
+<h3> Caution </h3>
+<b>Do not run the player before editing the "coolplayer.ini" file.</b>
 
 
 <h2 align="center"> License </h2>
