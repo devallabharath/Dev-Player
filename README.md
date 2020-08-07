@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-A customized & polished music player for windows, based on coolplayer.
+A customized & polished music player for windows, based on coolplayer.<br>
 Original coolplayer source available at [sourceforge](http://coolplayer.sourceforge.net/)
 
 </p>
