@@ -32,6 +32,7 @@ Original coolplayer source available at <code> sourceforge</code>  (http://coolp
 * Playlists support
 * Wide formats (mp3, flac, mp4, wav, lossless)
 * Online streaming
+<br>
 
 
 ### Usage/installation
@@ -39,13 +40,10 @@ Original coolplayer source available at <code> sourceforge</code>  (http://coolp
 * Replace the <code>********</code> in the file 'coolplayer.ini' with actual directory location.
 
 If u have downloaded the repo to ur downloads folder then, u need to change as follows
-
-
 ```sh
 C:\Users\username\Downloads\Dev-Player\Skin\pl\playlist.ini
 ```
-
-change the "username" with your username <br><br>
+change the "username" with your username <br>
 You need to edit "2" line's in the "coolplayer.ini" file <br><br>
 
 <code>
