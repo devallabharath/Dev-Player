@@ -10,7 +10,7 @@
 
 <p align="center">
 A customized & polished music player for windows, based on coolplayer.<br>
-Original coolplayer source available at [sourceforge](http://coolplayer.sourceforge.net/)
+Original coolplayer source available at [sourceforge](http://coolplayer.sourceforge.net/)<br>
 
 </p>
 
@@ -24,6 +24,8 @@ Original coolplayer source available at [sourceforge](http://coolplayer.sourcefo
 
 </h4>
 
+<p align="center">
+
 #### Features
 * Light-weight
 * Stand alone-portable application
@@ -33,6 +35,7 @@ Original coolplayer source available at [sourceforge](http://coolplayer.sourcefo
 * Wide formats (mp3, flac, mp4, wav, lossless)
 * Online streaming
 
+</p>
 
 #### Usage/installation
 * Download the Repo into your system.
