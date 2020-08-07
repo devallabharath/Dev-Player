@@ -8,12 +8,14 @@
 
 </h1>
 
-
+<p align="center">
 A customized & polished music player for windows, based on coolplayer.
 
 Original coolplayer source available at [sourceforge](http://coolplayer.sourceforge.net/)
 
-<h4 align="center"> Screenshots
+</p>
+
+<h4 align="center"> Screenshots <br>
  
 ![Player](https://github.com/devallabharath/Dev-Player/blob/master/Screenshots/screen1.PNG "Player")
 
