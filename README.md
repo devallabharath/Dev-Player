@@ -1,8 +1,16 @@
-<h1 align="center"> Dev-Player </h1>
+<h1 align="center">
+ 
+[Dev-Player](https://github.com/devallabharath/Dev-Player)
 
+</h1>
+
+<p align="center">
+ 
 ![OpenSource](https://img.shields.io/badge/OpenSource-Yes-green)
 ![License](https://img.shields.io/badge/License-GPL2-blue)
 ![Issues](https://img.shields.io/github/issues/devallabharath/Dev-Player?style=flat)
+
+</p>
 
 A customized coolplayer music player application for windows.
 
@@ -10,7 +18,9 @@ Original source available at [sourceforge](http://coolplayer.sourceforge.net/)
 
 #### Screenshots
 ![Player](https://github.com/devallabharath/Dev-Player/blob/master/Screenshots/screen1.PNG "Player")
+
 ![Equilizer](https://github.com/devallabharath/Dev-Player/blob/master/Screenshots/screen2.PNG "Equilizer")
+
 ![Playlist](https://github.com/devallabharath/Dev-Player/blob/master/Screenshots/screen3.PNG "Playlist")
 
 
@@ -38,7 +48,7 @@ C:\Users\username\Downloads\Dev-Player\Skin\pl\playlist.ini
 change the "username" with your username <br><br>
 You need to edit "2" line's in the "coolplayer.ini" file
 
-<h3> Caution </h3>
+<h3 style="color:red"> Caution </h3>
 <b>Do not run the player before editing the "coolplayer.ini" file.</b>
 
 
