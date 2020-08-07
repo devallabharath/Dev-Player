@@ -9,9 +9,9 @@
 </h1>
 
 
-A customized coolplayer music player application for windows.
+A customized & polished music player for windows, based on coolplayer.
 
-Original source available at [sourceforge](http://coolplayer.sourceforge.net/)
+Original coolplayer source available at [sourceforge](http://coolplayer.sourceforge.net/)
 
 #### Screenshots
 ![Player](https://github.com/devallabharath/Dev-Player/blob/master/Screenshots/screen1.PNG "Player")
