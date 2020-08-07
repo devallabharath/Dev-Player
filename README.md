@@ -13,13 +13,15 @@ A customized & polished music player for windows, based on coolplayer.
 
 Original coolplayer source available at [sourceforge](http://coolplayer.sourceforge.net/)
 
-#### Screenshots
+<h4 align="center"> Screenshots
+ 
 ![Player](https://github.com/devallabharath/Dev-Player/blob/master/Screenshots/screen1.PNG "Player")
 
 ![Equilizer](https://github.com/devallabharath/Dev-Player/blob/master/Screenshots/screen2.PNG "Equilizer")
 
 ![Playlist](https://github.com/devallabharath/Dev-Player/blob/master/Screenshots/screen3.PNG "Playlist")
 
+</h4>
 
 #### Features
 * Light-weight
