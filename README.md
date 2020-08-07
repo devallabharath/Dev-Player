@@ -50,8 +50,7 @@ You need to edit "2" line's in the "coolplayer.ini" file <br><br>
 <b>Do not run the player before editing the "coolplayer.ini" file.</b>
 </code>
 
-
-<br>
+<br><br>
 <h2 align="center"> License </h2>
 <p align="center"><b> GNU GENERAL PUBLIC LICENSE </b></p>
 <p align="center"> Version 2, June 1991 <br>
