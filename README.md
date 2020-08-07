@@ -13,11 +13,12 @@ A customized & polished music player for windows, based on coolplayer.<br>
 Original coolplayer source available at <code> sourceforge</code>  (http://coolplayer.sourceforge.net)
 </p>
 
-<h5 align="center"> Get
+<h4 align="center">
  
+ Get
  [Dev-Player](https://github.com/devallabharath/Dev-Player/releases)
  
-</h5>
+</h4>
 
 <h3 align="center"> Screenshots <br><br>
  
