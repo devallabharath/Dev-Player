@@ -61,5 +61,7 @@ You need to edit "2" line's in the "coolplayer.ini" file <br><br>
 <p align="center"> Version 2, June 1991 </p>
  Everyone is permitted to copy and distribute verbatim copies
  of this software; you may not use this file except in compliance with the License.<br>
+
  You may obtain a copy of the License at
- <p align="center"> https://www.gnu.org/licenses/old-licenses/lgpl-2.0.html </p>
+
+<p align="center"> https://www.gnu.org/licenses/old-licenses/lgpl-2.0.html </p>
