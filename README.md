@@ -3,6 +3,7 @@
 [Dev-Player](https://github.com/devallabharath/Dev-Player)
 
 </h1>
+
 <p align="center">
  
 ![OpenSource](https://img.shields.io/badge/OpenSource-Yes-green)
@@ -10,6 +11,7 @@
 ![Issues](https://img.shields.io/github/issues/devallabharath/Dev-Player?style=flat)
 
 </p>
+
 A customized coolplayer music player application for windows.
 
 Original source available at [sourceforge](http://coolplayer.sourceforge.net/)
