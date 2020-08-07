@@ -24,7 +24,6 @@ Original coolplayer source available at [sourceforge](http://coolplayer.sourcefo
 
 </h4>
 
-<p align="center">
 
 #### Features
 * Light-weight
@@ -35,7 +34,6 @@ Original coolplayer source available at [sourceforge](http://coolplayer.sourcefo
 * Wide formats (mp3, flac, mp4, wav, lossless)
 * Online streaming
 
-</p>
 
 #### Usage/installation
 * Download the Repo into your system.
