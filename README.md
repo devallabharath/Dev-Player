@@ -10,7 +10,7 @@
 
 <p align="center">
 A customized & polished music player for windows, based on coolplayer.<br>
-Original coolplayer source available at <code> sourceforge</code>  (http://coolplayer.sourceforge.net/)
+Original coolplayer source available at <code> sourceforge</code>  (http://coolplayer.sourceforge.net)
 </p>
 
 <h3 align="center"> Screenshots <br><br>
@@ -46,7 +46,7 @@ C:\Users\username\Downloads\Dev-Player\Skin\pl\playlist.ini
 ```
 
 change the "username" with your username <br><br>
-You need to edit "2" line's in the "coolplayer.ini" file
+You need to edit "2" line's in the "coolplayer.ini" file <br>
 
 ```
 ### Caution
@@ -58,5 +58,6 @@ You need to edit "2" line's in the "coolplayer.ini" file
 <p align="center"><b> GNU GENERAL PUBLIC LICENSE </b></p>
 <p align="center"> Version 2, June 1991 </p>
  Everyone is permitted to copy and distribute verbatim copies
- of this software; you may not use this file except in compliance with the License. You may obtain a copy of the License at
+ of this software; you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
  <p align="center"> https://www.gnu.org/licenses/old-licenses/lgpl-2.0.html </p>
