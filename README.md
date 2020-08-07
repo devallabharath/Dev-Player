@@ -24,7 +24,7 @@ Original coolplayer source available at <code> sourceforge</code>  (http://coolp
 </h3>
 
 
-#### Features
+### Features
 * Light-weight
 * Stand alone-portable application
 * Themed
@@ -34,7 +34,7 @@ Original coolplayer source available at <code> sourceforge</code>  (http://coolp
 * Online streaming
 
 
-#### Usage/installation
+### Usage/installation
 * Download the Repo into your system.
 * Replace the <code>********</code> in the file 'coolplayer.ini' with actual directory location.
 
@@ -48,7 +48,7 @@ C:\Users\username\Downloads\Dev-Player\Skin\pl\playlist.ini
 change the "username" with your username <br><br>
 You need to edit "2" line's in the "coolplayer.ini" file
 
-<h3 style="color:red"> Caution </h3>
+### Caution
 <b>Do not run the player before editing the "coolplayer.ini" file.</b>
 
 
