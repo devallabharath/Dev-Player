@@ -48,10 +48,12 @@ C:\Users\username\Downloads\Dev-Player\Skin\pl\playlist.ini
 change the "username" with your username <br><br>
 You need to edit "2" line's in the "coolplayer.ini" file
 
+```
 ### Caution
 <b>Do not run the player before editing the "coolplayer.ini" file.</b>
+```
 
-
+<br>
 <h2 align="center"> License </h2>
 <p align="center"><b> GNU GENERAL PUBLIC LICENSE </b></p>
 <p align="center"> Version 2, June 1991 </p>
