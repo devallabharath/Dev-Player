@@ -34,7 +34,6 @@ Original coolplayer source available at <code> sourceforge</code>  (http://coolp
 * Online streaming
 <br>
 
-
 ### Usage/installation
 * Download the Repo into your system.
 * Replace the <code>********</code> in the file 'coolplayer.ini' with actual directory location.
