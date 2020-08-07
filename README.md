@@ -31,7 +31,7 @@ Original coolplayer source available at <code> sourceforge</code>  (http://coolp
 * Playlists support
 * Wide formats (mp3, flac, mp4, wav, lossless)
 * Online streaming
-<br>
+
 
 ### Usage/installation
 * Download the Repo into your system.
@@ -49,6 +49,7 @@ You need to edit "2" line's in the "coolplayer.ini" file <br><br>
 <code>
 <b>Do not run the player before editing the "coolplayer.ini" file.</b>
 </code>
+
 
 <br>
 <h2 align="center"> License </h2>
