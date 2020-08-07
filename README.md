@@ -13,7 +13,7 @@ A customized & polished music player for windows, based on coolplayer.<br>
 Original coolplayer source available at <code> sourceforge</code>  (http://coolplayer.sourceforge.net/)
 </p>
 
-<h4 align="center"> Screenshots <br><br>
+<h3 align="center"> Screenshots <br><br>
  
 ![Player](https://github.com/devallabharath/Dev-Player/blob/master/Screenshots/screen1.PNG "Player")
 
@@ -21,7 +21,7 @@ Original coolplayer source available at <code> sourceforge</code>  (http://coolp
 
 ![Playlist](https://github.com/devallabharath/Dev-Player/blob/master/Screenshots/screen3.PNG "Playlist")
 
-</h4>
+</h3>
 
 
 #### Features
