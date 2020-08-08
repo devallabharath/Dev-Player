@@ -1,5 +1,5 @@
 <h1 align="center">
- 
+
 [Dev-Player](https://github.com/devallabharath/Dev-Player)
 
 ![OpenSource](https://img.shields.io/badge/OpenSource-Yes-green)
@@ -14,14 +14,14 @@ Original coolplayer source available at <code> sourceforge</code>  (http://coolp
 </p>
 
 <h4 align="center">
- 
+
  Get
  [Dev-Player](https://github.com/devallabharath/Dev-Player/releases)
- 
+
 </h4>
 
 <h3 align="center"> Screenshots <br><br>
- 
+
 ![Player](https://github.com/devallabharath/Dev-Player/blob/master/Screenshots/screen1.PNG "Player")
 
 ![Equilizer](https://github.com/devallabharath/Dev-Player/blob/master/Screenshots/screen2.PNG "Equilizer")
@@ -42,22 +42,11 @@ Original coolplayer source available at <code> sourceforge</code>  (http://coolp
 
 ### Usage/installation
 * Download the Repo into your system.
-* Replace the <code>********</code> in the file 'coolplayer.ini' with actual directory location.
-
-If u have downloaded the repo to ur downloads folder then, u need to change as follows
-```sh
-C:\Users\username\Downloads\Dev-Player\Skin\pl\playlist.ini
-```
-change the "username" with your username <br>
-You need to edit "2" line's in the "coolplayer.ini" file <br><br>
-
-#### Caution
-
-<code>
-<b>Do not run the player before editing the "coolplayer.ini" file.</b>
-</code>
-
+* Unzip the repo and you are good to go.
+* Simply run the <code>.exe</code> file.
+* YES <code>no configuration required</code>
 <br><br>
+
 <h2 align="center"> License </h2>
 <p align="center"><b> GNU GENERAL PUBLIC LICENSE </b></p>
 <p align="center"> Version 2, June 1991 <br>
