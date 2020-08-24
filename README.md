@@ -15,7 +15,7 @@ Original coolplayer source available at <code> sourceforge</code>  (http://coolp
 
 <h4 align="center">
 
- Get
+ Get Package
  [Dev-Player](https://github.com/devallabharath/Dev-Player/releases)
 
 </h4>
